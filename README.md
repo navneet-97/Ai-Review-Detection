@@ -5,8 +5,7 @@ This project introduces a **novel PSR (Part-of-Speech Shift Ratio) model** to de
 
 ## Research Paper
 📄 **"Detecting AI-Generated Peer Reviews Using POS Shift Ratio and Lexical Diversity Features"**
-- **Paper Link**: [Paper URL]
-- **Authors**: [Navneet Tewatia]
+- **Paper Link**: [\[Paper URL\]](https://drive.google.com/file/d/1LaLg_4-SBgZkjXOM9i0GAFshrMOS6r2C/view?usp=sharing)
 
 ## Problem Statement
 AI-generated peer reviews pose a significant threat to academic integrity. Our PSR model addresses this by analyzing sentence structure variations, but it's **vulnerable to paraphrasing attacks**. To improve robustness, we combine PSR with TTR (Type-Token Ratio) features.
