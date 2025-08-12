@@ -4,11 +4,9 @@
 This project introduces a **novel PSR (Part-of-Speech Shift Ratio) model** to detect AI-generated peer reviews in academic research. The model analyzes linguistic patterns in peer review text to distinguish between human-written and AI-generated reviews.
 
 ## Research Paper
-📄 **"Detecting AI-Generated Peer Reviews: A Novel PSR Approach"**
-- **Conference**: [Conference Name] 
-- **DOI**: [DOI Link]
+📄 **"Detecting AI-Generated Peer Reviews Using POS Shift Ratio and Lexical Diversity Features"**
 - **Paper Link**: [Paper URL]
-- **Authors**: [Your Name], [Co-authors]
+- **Authors**: [Navneet Tewatia]
 
 ## Problem Statement
 AI-generated peer reviews pose a significant threat to academic integrity. Our PSR model addresses this by analyzing sentence structure variations, but it's **vulnerable to paraphrasing attacks**. To improve robustness, we combine PSR with TTR (Type-Token Ratio) features.
